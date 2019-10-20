@@ -1,6 +1,6 @@
 /bin/
 /target/
 /catalina.base_IS_UNDEFINED/
+/.settings/
 /.classpath
 /.project
-/.settings
